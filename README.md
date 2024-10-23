@@ -18,7 +18,7 @@
 
 <div align="left"> 
 
-<img align="left"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/e3520d7c-c3c2-4dff-90e2-86355adc6f7c">
+<img align="left"  height="80" width="80" src="https://github.com/user-attachments/assets/6740549c-244f-47ba-a015-03d748e5c57e">
 
 </div>
 
