@@ -4,8 +4,6 @@
 
 </div>
 
-<h2 align="left"> Skills: </h2>
-
 #
 
 <picture align="center">
